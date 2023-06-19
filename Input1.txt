@@ -1,0 +1,11 @@
+Diagonal
+Wikipedia
+Horizontal
+WordSearch
+Week
+Find
+Random
+Sleuth
+Backward
+Vertical
+
